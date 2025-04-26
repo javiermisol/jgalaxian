@@ -1,6 +1,12 @@
 # jgalaxian
 ## A Java Galaxian clone 
 
+![Screenshots jGalaxin 1 ](https://github.com/javiermisol/jgalaxian/blob/main/jGalaxian_001.png)
+
+![Screenshots jGalaxin 2 ](https://github.com/javiermisol/jgalaxian/blob/main/jGalaxian_002.png)
+
+![Screenshots jGalaxin 3 ](https://github.com/javiermisol/jgalaxian/blob/main/jGalaxian_003.png)
+
 
 *** JGalaxian *** es un ** clon ** Galaxiano con sede en Java (recuerdas Galaxian, verdad?). Aunque es un juego muy divertido por derecho propio, el código también sirve como un tutorial decente en una forma de construir juegos en 2D en general y en Java en particular. Algunas características del diseño:
 
