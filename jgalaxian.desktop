@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=JGalaxian
+Version=1.0
+Exec=/usr/bin/jgalaxian
+Comment=Galaxian clone
+Icon=/usr/share/icons/hicolor/512x512/apps/jgalaxian.png
+Type=Application
+Terminal=false
+StartupNotify=false
+Encoding=UTF-8
+Categories=Game;

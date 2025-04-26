@@ -1,0 +1,16 @@
+Package: jgalaxian
+Version: 1.0
+Maintainer: © 2025 albertzb <@>
+Section: games
+Architecture: amd64
+Priority: optional
+Description: JGalaxian
+ JGalaxian is a Java-based Galaxian clone (you do remember Galaxian, right?). Although it's a pretty fun game in its own right, the code also serves as a decent tutorial on one way of building 2D games in general and in Java in particular. Some features of the design:
+ .
+     Scalable
+     2D sprites
+     Sprite lists
+     Collision detection
+     Game state machine
+ .
+ Standard stuff, really, but if you're new to 2D game design, maybe you'll find something useful to copy to use in your own games.

@@ -1,0 +1,18 @@
+E: jgalaxian: control-file-has-bad-permissions 0755 != 0644 [md5sums]
+E: jgalaxian: copyright-not-using-common-license-for-lgpl
+E: jgalaxian: description-is-pkg-name JGalaxian
+E: jgalaxian: description-starts-with-package-name
+E: jgalaxian: description-too-short JGalaxian
+E: jgalaxian: executable-desktop-file 0755 [usr/share/applications/JGalaxian.desktop]
+E: jgalaxian: executable-in-usr-share-doc 0755 [usr/share/doc/jgalaxian/copyright]
+E: jgalaxian: malformed-contact Maintainer © 2025 albertzb <null>
+E: jgalaxian: missing-dep-on-jarwrapper
+E: jgalaxian: no-changelog usr/share/doc/jgalaxian/changelog.gz (native package)
+E: jgalaxian: package-section-games-but-contains-no-game
+W: jgalaxian: executable-not-elf-or-script [usr/share/applications/JGalaxian.desktop]
+W: jgalaxian: executable-not-elf-or-script [usr/share/doc/jgalaxian/copyright]
+W: jgalaxian: executable-not-elf-or-script [usr/share/icons/hicolor/512x512/apps/jgalaxian.png]
+W: jgalaxian: extended-description-line-too-long line 1
+W: jgalaxian: extended-description-line-too-long line 9
+W: jgalaxian: icon-size-and-directory-name-mismatch 400x400 [usr/share/icons/hicolor/512x512/apps/jgalaxian.png]
+W: jgalaxian: no-manual-page [usr/bin/jgalaxian]
