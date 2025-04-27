@@ -1,5 +1,5 @@
 # jgalaxian
-## A Java Galaxian clone 
+## A Java Galaxian clone
 
 ![Screenshots jGalaxin 1 ](https://github.com/javiermisol/jgalaxian/blob/main/jGalaxian_001.png)
 
@@ -19,3 +19,6 @@
 >Cosas estándar, de verdad, pero si eres nuevo en el diseño de juegos 2D, tal vez encuentres algo útil de copiar para usar en tus propios juegos.
 
 >***Paqueteria debian/ubuntu/LinuxMint/derivados.***
+
+>***Instalador para Windows.***
+
